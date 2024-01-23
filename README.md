@@ -1,4 +1,4 @@
 # learning-git
 how to learn git
-##notes 
+## notes 
 you have to use cmder to clone repo 
